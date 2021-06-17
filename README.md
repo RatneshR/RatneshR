@@ -5,7 +5,8 @@ I am a Software Engineer, currently working on Angular and Node.js based applica
 Watching and Developing new Tech fectures is a part of my working nature. I am learning Google Cloud Platform based Machine Learning Quests.
 
 Do checkout my GCP Profile : https://google.qwiklabs.com/public_profiles/264b8833-8796-4d40-99c4-56d02d4bec70
-Google Developers Profile : https://developers.google.com/profile/u/101928554808743332234?utm_source=developers.google.com
+<br>Google Developers Profile : https://developers.google.com/profile/u/101928554808743332234?utm_source=developers.google.com
+<br>HackerRank Profile: https://www.hackerrank.com/ratnesh_rai26
 <!--
 **RatneshR/RatneshR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
