@@ -1,6 +1,8 @@
 ### Hi, I am Ratnesh 👋
 
-I am a Software Engineer, currently working on Angular and Node.js based applications. I have also worked on Java and PHP based web applications, with a great grip over SQL Databases. I am fascinated with Data Analytics and also have proven experience in SAS Viya visualization tool. Also, have worked on D3.js for Dashboard presentation.
+I am a Software Engineer, currently working on Angular, Spring and Node.js based applications. I have also worked on Java and PHP based web applications, with a great grip over SQL Databases. I am fascinated with Data Analytics and also have proven experience in SAS Viya visualization tool. Also, have worked on D3.js for Dashboard presentation.
+
+I have worked on Grunt.js automation and vulnerability resolution tools like OSS, SonarQube and Rapid7. I have also worked on Python for DB scripting.
 
 Watching and Developing new Tech fectures is a part of my working nature. I am learning Google Cloud Platform based Machine Learning Quests.
 
